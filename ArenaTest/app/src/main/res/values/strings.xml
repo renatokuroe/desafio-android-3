@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArenaTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="request_error">Request error.</string>
+</resources>
